@@ -45,6 +45,12 @@ h1, h2, h3, h4, {
 
 }
 
+.h1 {
+  margin-bottom: 0;
+  text-align: right;
+}
+
+
 .section-title {
   margin-bottom: 0;
   text-align: right;
