@@ -8,6 +8,12 @@ img {
 	width: 100%;
 }
 
+.pimage {
+	border-radius: 5px;
+	width: 100%;
+	display: block;
+	max-height: 187px;
+}
 
 .heading-name, .heading-one, .heading-two, .heading-three {
 	margin: 0;
