@@ -24,6 +24,12 @@ img {
 	font-weight: 200;
 }
 
+.container-projects {
+	display: flex;
+	text-align: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
 
 .container {
 	display: flex;
@@ -47,7 +53,7 @@ img {
 }
 
 @media screen and (max-width: 800px){
-	.container-project-content {
+	.container-projects {
 		flex-wrap: wrap;
 		justify-content: center;
 	}
